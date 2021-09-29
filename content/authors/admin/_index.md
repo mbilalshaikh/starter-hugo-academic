@@ -20,10 +20,10 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/mbilalshaikh
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/mbshaikh/
 organizations:
   - name: Edith Cowan University
     url: https://www.ecu.edu.edu/

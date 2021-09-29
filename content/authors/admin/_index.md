@@ -30,8 +30,8 @@ organizations:
 education:
   courses:
     - course: PhD in Computer Vision and Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+      institution: Edith Cowan University
+      year: 2021
     - course: MS in Computer Science
       institution: Sukkur IBA University
       year: 2016

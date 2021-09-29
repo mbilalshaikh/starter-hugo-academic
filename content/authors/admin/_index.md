@@ -1,7 +1,7 @@
 ---
 title: Muhammad Bilal Shaikh
 role: PhD Candidate
-avatar_filename: bilal.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -42,7 +42,7 @@ email: mbs.techy@gmail.com
 superuser: true
 highlight_name: true
 ---
-Muhammad Bilal Shaikh is a Ph.D candidate of artificial intelligence at the Communciations Lab of Edith Cowan University. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Muhammad Bilal Shaikh is a Ph.D candidate of artificial intelligence at the Communications Lab of Edith Cowan University. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 

@@ -1,6 +1,7 @@
 ---
 title: Muhammad Bilal Shaikh
 role: PhD Candidate
+avatar_filename: bilal.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:

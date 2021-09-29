@@ -25,20 +25,20 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Edith Cowan University
+    url: https://www.ecu.edu.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Computer Vision and Artificial Intelligence
       institution: Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: MS in Computer Science
+      institution: Sukkur IBA University
+      year: 2016
+    - course: BS in Computer Science
+      institution: FAST National University of Computer and Emerging Sciences
+      year: 2011
+email: mbs.techy@gmail.com
 superuser: true
 highlight_name: true
 ---

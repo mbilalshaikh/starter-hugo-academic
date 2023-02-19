@@ -46,9 +46,9 @@ experience:
     company: University of Sindh
     company_url: ''
     company_logo: org-x
-    location: California
+    location: Jamshoro
     date_start: '2015-01-05'
-    date_end: '2018-12-18'
+    date_end: ''
     description: Taught software engineering and researched information technology.
 
 design:

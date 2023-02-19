@@ -29,8 +29,8 @@ experience:
     location: Karachi
     date_start: '2011-06-28'
     date_end: '2012-08-26'
-    description: 
-        * Deploying
+    description: Deploying
+        
         
   - title: Lecturer of Computer Science
     company: Sukkur IBA University

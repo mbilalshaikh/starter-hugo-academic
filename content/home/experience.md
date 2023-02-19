@@ -29,11 +29,7 @@ experience:
     location: Karachi
     date_start: '2011-06-28'
     date_end: '2012-08-26'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
+    description: 
         * Deploying
         
 - title: Lecturer of Computer Science
@@ -44,6 +40,8 @@ experience:
     date_start: '2012-08-27'
     date_end: '2015-01-4'
     description: Taught software engineering and researched Computer Science.
+    
+    
 - title: Lecturer of Information Technology
     company: University of Sindh
     company_url: ''

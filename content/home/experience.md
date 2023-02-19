@@ -32,17 +32,17 @@ experience:
     description: 
         * Deploying
         
-- title: Lecturer of Computer Science
+  - title: Lecturer of Computer Science
     company: Sukkur IBA University
     company_url: ''
     company_logo: org-x
     location: Sukkur
     date_start: '2012-08-27'
     date_end: '2015-01-4'
-    description: Taught software engineering and researched Computer Science.
+    description: Taught software engineering and researched Computer Science.   
     
     
-- title: Lecturer of Information Technology
+  - title: Lecturer of Information Technology
     company: University of Sindh
     company_url: ''
     company_logo: org-x
